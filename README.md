@@ -47,3 +47,8 @@ python autism_model.py
 Contributions to improve the web interface, model training code or accuracy are welcome!
 
 Let me know if you have any other questions! I'm happy to clarify or provide more details about the project.
+
+## Snapshots
+![index](https://github.com/sameerk126/Autism-Spectrum-Disorder-Prediction-System-Using-Machine-Learning/assets/81867462/059fe26f-416e-4577-b557-c8728e4a0256)
+
+
