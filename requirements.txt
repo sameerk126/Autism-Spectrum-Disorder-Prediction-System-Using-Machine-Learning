@@ -4,3 +4,4 @@ pandas==2.0.1
 pickle
 matplotlib==3.7.1
 seaborn
+flask==3.0.0
