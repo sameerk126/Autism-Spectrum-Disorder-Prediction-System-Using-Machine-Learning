@@ -1,0 +1,11 @@
+A1_Score to A10_Score - These columns likely represent scores from different assessment questions (A1 to A10) used to evaluate various aspects of a child's behavior or development, possibly related to autism.
+
+age - Age of the child.
+
+gender - Gender of the child.
+
+jaundice - Whether the child had jaundice at birth.
+
+autism - Binary target variable, 1 if child is diagnosed with autism, 0 otherwise.
+
+relation - This binary column may indicate the relationship of the individual providing the data (0 or 1) to the child being assessed. The specific mapping of 0 and 1 to types of relationships (e.g., parent, caregiver).
