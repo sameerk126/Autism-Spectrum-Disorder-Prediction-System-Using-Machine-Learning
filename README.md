@@ -1,4 +1,3 @@
-# Autism-Spectrum-Disorder-Prediction-System-Using-Machine-Learning
 Autism Prediction System
 This project implements a machine learning model to predict autism based on diagnostic features. It includes a Flask web application for local deployment and testing.
 
